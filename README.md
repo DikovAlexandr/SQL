@@ -4,8 +4,8 @@ This project aims to provide a simple interface for managing a soap factory's da
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/soap-factory-database.git
-cd soap-factory-database
+git clone https://github.com/DikovAlexandr/SQL
+cd SQL
 ```
 2. Install the required packages:
 ```
